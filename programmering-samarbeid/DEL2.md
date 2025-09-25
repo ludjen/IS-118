@@ -51,10 +51,7 @@ Forberedelse
 
 For at møte skal bli vellykket, er det viktig at prosjektlederen er godt forberedt og planlagt til det første møtet. Prosjektleder bør forberede seg på blant annet hva møte skal innholdet, formålet med møtet, sted, tidspunkt og varighet, utstyr og hjelpemidler, om beslutninger skal tas på møtet og hvordan (Karlsen, 2021, s.246). Det som kjennetegner et godt møte er å blant annet å innkalle i god tid før møtet, behandle de viktigste sakene først (Gjøsund & Huseby, 2025).  
 
- 
 
-
-<<<<<<< HEAD
 Skape felles forståelse av mål og visjon 
 
 09:30 – 10:15 
