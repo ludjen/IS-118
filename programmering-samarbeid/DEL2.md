@@ -8,7 +8,7 @@
 ## Del B – (Person 2)
 Design av "det første møtet"  
 
-Første møte er avgjørende i teambygging (Jacobsen 2016, s. 37), så for å skape et godt grunnlag for prosjektet trenger vi et godt og gjennomtenkt første møte. Som prosjektleder er det viktig å skape et godt internt miljø i prosjektet og legge vekt på relasjonsbygging tidlig. Målet med møtet er å skape en felles forståelse av prosjektet, etablere roller og bygge relasjoner. Pseudoarbeid er en metode for relasjonsbygging, der det legges vekt på småprat som ikke er relatert til det aktuelle prosjektet. Slik kan prosjektets medlemmer bli kjent og snakke fritt om felles erfaringer som er med på å etablere relasjoner (Jacobsen 2016, s. 37).  
+Første møte er avgjørende i teambygging (Jacobsen 2016, s. 37), så for å skape et godt grunnlag for prosjektet trenger vi et godt og gjennomtenkt første møte. Som prosjektleder er det viktig å skape et godt internt miljø i prosjektet og legge vekt på relasjonsbygging tidlig. Målet med møtet er å skape en felles forståelse av prosjektet, etablere roller og bygge relasjoner. Pseudoarbeid er en metode for relasjonsbygging, der det legges vekt på småprat som ikke er relatert til det aktuelle prosjektet. Slik kan prosjektets medlemmer bli kjent og snakke fritt om felles erfaringer som er med på å etablere relasjon (Jacobsen 2016, s. 37).  
 
 Forberedelse  
 
