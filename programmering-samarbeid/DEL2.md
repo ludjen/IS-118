@@ -2,7 +2,7 @@
 
 
 
-#Innholdsfortegnelse
+Innholdsfortegnelse
 
 1. Strategi for rekruttering og sammensetning	1
 Mangfold	1
@@ -34,11 +34,11 @@ Oppstartspakke for digital medborgerportal-prosjektet
 Strategi for rekruttering og sammensetning
 Et godt og sammensatt prosjektteam er essensielt i oppstartsfasen og vil legge grunnlaget for prosjektets videre utvikling. Et team defineres som “en gruppe mennesker som arbeider sammen om felles måloppnåelse” (Karlsen, 2021, s. 174). Det er tre kjennetegn ved et team. Det første er å jobbe sammen om et felles mål som er retningsgivende for arbeidet som blir gjort. Det andre kjennetegnet er å jobbe sammen for å forsikre verdiskapende prosesser og målrealisering. Det siste kjennetegnet ved et team er at gruppens medlemmer gir og mottar støtte, tilhørighet og samvær (Karlsen, 2021, s.174).
 
-#Mangfold
+Mangfold
 
 For å få til dette bør Erling sette sammen et team med vekt på mangfold med en viss grad av sosial og demografisk likhet for å oppnå både bredde og tillit. Mangfold i et team bidrar til å utnytte medlemmenes kompetanse, erfaringer og personlige egenskaper. Mangfold åpner opp for flere perspektiver og sider som skaper innovasjon. Dette vil styrke gruppens evne til å møte og håndtere utfordringer på en bedre måte. Et effektivt team bør dekke disse fire sentrale teamrollene: produksjon, administrasjon, integrasjon og entreprenørskap. Produksjon sørger for faglig fremdrift som IT-utvikling. Administrasjon tar seg av struktur, system og planlegging. Integrasjon fungerer som et bindeledd mellom avdelinger og som et sosialt lim, og som passer på samholdet i gruppen. Entreprenørene kommer med nye ideer og nyskapende tekning. De peker på utfordringer og stiller kritiske spørsmål.
 
-#Sosial likhet
+Sosial likhet
 
 Mangfold gir ikke bare perspektiver og innovasjon, det kan også forsterke konflikt som kan hemme samarbeidet i gruppen. Derfor bør gruppen ha visse fellestrekk og sosiale likheter. Det kan være like verdier, arbeidsstiler og felles mål. Dette bidrar til tillit i prosjektteamet. “Prosjektteam fungerer bedre når medlemmene har tillit til hverandre” (Karlsen, 2021, s. 269). Når teammedlemmer stoler på hverandre og føler seg trygge på hverandre, legges grunnlaget for et sterkt og velfungerende samarbeid. Derfor er tillit mellom prosjektmedlemmene en sentral brikke for et godt samarbeid (Karlsen, 2021, s. 271). Dette er viktig å ta i betraktning tidlig slik at Erling kan sette sammen et team med utfyllende kompetanse og samtidig legge vekt på sosial likhet som styrker bredden og tilliten i gruppe
 
@@ -47,7 +47,7 @@ Mangfold gir ikke bare perspektiver og innovasjon, det kan også forsterke konfl
 
 Første møte er avgjørende i teambygging (Jacobsen 2016, s. 37), så for å skape et godt grunnlag for prosjektet trenger vi et godt og gjennomtenkt første møte. Som prosjektleder er det viktig å skape et godt internt miljø i prosjektet og legge vekt på relasjonsbygging tidlig. Målet med møtet er å skape en felles forståelse av prosjektet, etablere roller og bygge relasjoner. Pseudoarbeid er en metode for relasjonsbygging, der det legges vekt på småprat som ikke er relatert til det aktuelle prosjektet. Slik kan prosjektets medlemmer bli kjent og snakke fritt om felles erfaringer som er med på å etablere relasjon (Jacobsen 2016, s. 37).  
 
-#Forberedelse  
+Forberedelse  
 
 For at møte skal bli vellykket, er det viktig at prosjektlederen er godt forberedt og planlagt til det første møtet. Prosjektleder bør forberede seg på blant annet hva møte skal innholdet, formålet med møtet, sted, tidspunkt og varighet, utstyr og hjelpemidler, om beslutninger skal tas på møtet og hvordan (Karlsen, 2021, s.246). Det som kjennetegner et godt møte er å blant annet å innkalle i god tid før møtet, behandle de viktigste sakene først (Gjøsund & Huseby, 2025).  
 >>>>>>> origin/feature/delB-ludjen
@@ -144,10 +144,10 @@ Kommunikasjon i ett prosjektteam har fire hovedfunksjoner: sosial, ekspressiv, i
 Kommunikasjonsprosessen 
 I tillegg bør prosjektlederen være oppmerksom på kommunikasjonsprosesssen, som består av koding og avkoding. Som en gruppeleder innebærer dette å formulere budskapet og informasjonen klart og tydelig. Koding handler om avsenderens valg av ord og symboler som formidler meldingen på best mulig vis. Deretter vil mottakeren avkode ved å tolke innholdet og gi en bekreftelse på forståelsen (Karlsen, 2021, s. 257). Bevissthet rundt dette bidrar til å være mer tydelig og effektiv i kommunikasjonen som reduserer misforståelser i gruppen.  Det kan være krevende å sikre god kommunikasjon i et prosjektteam. Ifølge Karlsen (2021) må prosjektledelsen særlig være bevisst på kommunikasjonsbarrierer. Det finnes nemlig fire kommunikasjonsbarrierer: prosessbarrierer, personlige barrierer, fysiske barrierer, semantiske barrierer. Ved å arbeide for å redusere disse barrierene på best mulig vis, kan prosjektlederen legge til rette for god, effektiv og presis kommunikasjon i gruppen. 
 
-#Oppsummering 
+Oppsummering 
 Denne oppstartspakken gir prosjektleder Erling spesifikke verktøy og anbefalinger for å lykkes med prosjektet.  Sammensetningene som blant annet mangfold, tillit, sosial trygghet og god kommunikasjon er grunnleggende i et prosjektteam og ved å kombinere disse elementene øker sannsynligheten for at Erling når målet sitt om økt innbyggerengasjement.  
 
-#Referanseliste 
+Referanseliste 
 
 Gjøsund & Huseby (2025). To eller flere (4.utg). Cappelen Damm Akademisk.  
 
