@@ -50,7 +50,7 @@ Første møte er avgjørende i teambygging (Jacobsen 2016, s. 37), så for å sk
 Forberedelse  
 
 For at møte skal bli vellykket, er det viktig at prosjektlederen er godt forberedt og planlagt til det første møtet. Prosjektleder bør forberede seg på blant annet hva møte skal innholdet, formålet med møtet, sted, tidspunkt og varighet, utstyr og hjelpemidler, om beslutninger skal tas på møtet og hvordan (Karlsen, 2021, s.246). Det som kjennetegner et godt møte er å blant annet å innkalle i god tid før møtet, behandle de viktigste sakene først (Gjøsund & Huseby, 2025).  
->>>>>>> origin/feature/delB-ludjen
+
  
 
 
@@ -96,7 +96,6 @@ Bekrefte hva som er bestemt og skape enighet om veien videre
 Slik etablerer første møtet prosjektets mål, arbeidsfordeling og struktur, men og bygging av tillit og relasjoner i gruppen.
 =======
 
->>>>>>> 553a80926b109e8ffe4b1b7a77edb06d0a7b9df0
 
 ## Del C – (Person 3)3. Rammer for relasjonelle kontrakter
 «Jerntriangelet er en modell for prosjektstyring som viser sammenhengen mellom tid, kostnad og kvalitet, der en endring i én faktor uunngåelig vil påvirke de to andre. For eksempel vil et prosjekt som skal leveres raskere enten bli dyrere eller gå på bekostning av kvaliteten» (Jacobsen, 2016, s. 44).
