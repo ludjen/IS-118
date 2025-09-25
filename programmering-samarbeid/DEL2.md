@@ -1,4 +1,4 @@
-# Del 2 – Programmering og samarbeid i Git & GitHu
+# Del 2 – Programmering og samarbeid i Git & GitHub
 
 
 
