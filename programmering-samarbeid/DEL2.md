@@ -1,6 +1,6 @@
 # Del 2 – Programmering og samarbeid i Git & GitHu
 
-## Introduksjon 
+
 
 Innholdsfortegnelse
 
@@ -41,8 +41,8 @@ For å få til dette bør Erling sette sammen et team med vekt på mangfold med 
 Sosial likhet
 
 Mangfold gir ikke bare perspektiver og innovasjon, det kan også forsterke konflikt som kan hemme samarbeidet i gruppen. Derfor bør gruppen ha visse fellestrekk og sosiale likheter. Det kan være like verdier, arbeidsstiler og felles mål. Dette bidrar til tillit i prosjektteamet. “Prosjektteam fungerer bedre når medlemmene har tillit til hverandre” (Karlsen, 2021, s. 269). Når teammedlemmer stoler på hverandre og føler seg trygge på hverandre, legges grunnlaget for et sterkt og velfungerende samarbeid. Derfor er tillit mellom prosjektmedlemmene en sentral brikke for et godt samarbeid (Karlsen, 2021, s. 271). Dette er viktig å ta i betraktning tidlig slik at Erling kan sette sammen et team med utfyllende kompetanse og samtidig legge vekt på sosial likhet som styrker bredden og tilliten i gruppe
-## Del B – (Person 2)
-Design av "det første møtet"  
+## Del B – (Person 2) Design av "det første møtet" 
+ 
 
 Første møte er avgjørende i teambygging (Jacobsen 2016, s. 37), så for å skape et godt grunnlag for prosjektet trenger vi et godt og gjennomtenkt første møte. Som prosjektleder er det viktig å skape et godt internt miljø i prosjektet og legge vekt på relasjonsbygging tidlig. Målet med møtet er å skape en felles forståelse av prosjektet, etablere roller og bygge relasjoner. Pseudoarbeid er en metode for relasjonsbygging, der det legges vekt på småprat som ikke er relatert til det aktuelle prosjektet. Slik kan prosjektets medlemmer bli kjent og snakke fritt om felles erfaringer som er med på å etablere relasjon (Jacobsen 2016, s. 37).  
 
