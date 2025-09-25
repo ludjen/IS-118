@@ -91,7 +91,7 @@ Oppsummering om veien videre.
 Bekrefte hva som er bestemt og skape enighet om veien videre 
 
 Slik etablerer første møtet prosjektets mål, arbeidsfordeling og struktur, men og bygging av tillit og relasjoner i gruppen.
-=======
+
 
 
 ## Del C – (Person 3)3. Rammer for relasjonelle kontrakter
