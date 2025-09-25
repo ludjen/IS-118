@@ -17,7 +17,7 @@ For å få til dette bør Erling sette sammen et team med vekt på mangfold med 
 
 Sosial likhet  
 
-Mangfold gir ikke bare perspektiver og innovasjon, det kan også forsterke konflikt som kan hemme samarbeidet i gruppen. Derfor bør gruppen ha visse fellestrekk og sosiale likheter. Det kan være like verdier, arbeidsstiler og felles mål. Dette bidrar til tillit i prosjektteamet. “Prosjektteam fungerer bedre når medlemmene har tillit til hverandre” (Karlsen, 2021, s. 269). Når teammedlemmer stoler på hverandre og føler seg trygge på hverandre, legges grunnlaget for et sterkt og velfungerende samarbeid. Derfor er tillit mellom prosjektmedlemmene en sentral brikke for et godt samarbeid (Karlsen, 2021, s. 271). Dette er viktig å ta i betraktning tidlig slik at Erling kan sette sammen et team med utfyllende kompetanse og samtidig legge vekt på sosial likhet som styrker bredden og tilliten i gruppen
+Mangfold gir ikke bare perspektiver og innovasjon, det kan også forsterke konflikt som kan hemme samarbeidet i gruppen. Derfor bør gruppen ha visse fellestrekk og sosiale likheter. Det kan være like verdier, arbeidsstiler og felles mål. Dette bidrar til tillit i prosjektteamet. “Prosjektteam fungerer bedre når medlemmene har tillit til hverandre” (Karlsen, 2021, s. 269). Når teammedlemmer stoler på hverandre og føler seg trygge på hverandre, legges grunnlaget for et sterkt og velfungerende samarbeid. Derfor er tillit mellom prosjektmedlemmene en sentral brikke for et godt samarbeid (Karlsen, 2021, s. 271). Dette er viktig å ta i betraktning tidlig slik at Erling kan sette sammen et team med utfyllende kompetanse og samtidig legge vekt på sosial likhet som styrker bredden og tilliten i gruppe
 
 ## Del B – (Person 2)
 
