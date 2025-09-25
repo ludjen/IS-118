@@ -29,6 +29,3 @@ Denne oppstartspakken gir prosjektleder Erling spesifikke verktøy og anbefaling
 - Jacobsen (2016). *Engangsorganisasjonen*. Fagbokforlaget.  
 - Karlsen, J.T. (2021). *Prosjektledelse* (5.utg). Universitetsforlaget.  
 
-
-## Oppsummering
-...
