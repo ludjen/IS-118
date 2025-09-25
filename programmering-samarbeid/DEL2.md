@@ -153,7 +153,8 @@ Kommunikasjonsprosessen
 
 I tillegg bør prosjektlederen være oppmerksom på kommunikasjonsprosesssen, som består av koding og avkoding. Som en gruppeleder innebærer dette å formulere budskapet og informasjonen klart og tydelig. Koding handler om avsenderens valg av ord og symboler som formidler meldingen på best mulig vis. Deretter vil mottakeren avkode ved å tolke innholdet og gi en bekreftelse på forståelsen (Karlsen, 2021, s. 257). Bevissthet rundt dette bidrar til å være mer tydelig og effektiv i kommunikasjonen som reduserer misforståelser i gruppen.  Det kan være krevende å sikre god kommunikasjon i et prosjektteam. Ifølge Karlsen (2021) må prosjektledelsen særlig være bevisst på kommunikasjonsbarrierer. Det finnes nemlig fire kommunikasjonsbarrierer: prosessbarrierer, personlige barrierer, fysiske barrierer, semantiske barrierer. Ved å arbeide for å redusere disse barrierene på best mulig vis, kan prosjektlederen legge til rette for god, effektiv og presis kommunikasjon i gruppen. 
 
-Oppsummering 
+##Oppsummering 
+
 Denne oppstartspakken gir prosjektleder Erling spesifikke verktøy og anbefalinger for å lykkes med prosjektet.  Sammensetningene som blant annet mangfold, tillit, sosial trygghet og god kommunikasjon er grunnleggende i et prosjektteam og ved å kombinere disse elementene øker sannsynligheten for at Erling når målet sitt om økt innbyggerengasjement.  
 
 Referanseliste 
