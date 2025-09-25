@@ -20,7 +20,7 @@
 ## Del H - (Person 8)
 
 ### Oppsummering  
-Denne oppstartspakken gir prosjektleder Erling spesifikke verktøy og anbefalinger for å lykkes med prosjektet. Sammensetningene som blant annet mangfold, tillit, sosial trygghet og god kommunikasjon er grunnleggende i et prosjektteam og ved å kombinere disse elementene øker sannsynligheten for at Erling når målet sitt om økt innbyggerengasjement.  
+Denne oppstartspakken gir prosjektleder Erling spesifikke verktøy og anbefalinger for å lykkes med prosjektet. Sammensetningene som blant annet mangfold, tillit, sosial trygghet og god kommunikasjon er grunnlegende i et prosjektteam og ved å kombinere disse elementene øker sannsynligheten for at Erling når målet sitt om økt innbyggerengasjement.  
 
 ---
 
