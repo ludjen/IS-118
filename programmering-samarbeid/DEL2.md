@@ -124,6 +124,7 @@ Det finnes ulike ordninger til å håndtere konflikt. Karlsen, 2021 legger vekt 
 
 ## Del E - (person 5)
 
+
 ## Del F - (person 6)
  Håndtering av tidspress og "planleggingsfellen"
 Prosjekter kjennetegnes ofte av sterkt handlingspress i oppstarten. Prosjektleder kan føle behov for å vise resultater raskt, noe som kan føre til for mye fokus på detaljerte planer tidlig. Dette kalles gjerne planleggingsfellen, der man mister fleksibilitet og muligheten til å lære underveis.
@@ -144,7 +145,13 @@ Ved å erkjenne at prosjekter er “engangsorganisasjoner” (Jacobsen, 2016, s.
 
 ## Del G - (person 7)
 
-## Del H - (Person 8)
+## Del H - (Person 8) 6. Sikring av god kommunikasjon
+Det er viktig med god kommunikasjon i et team, ettersom mangel på kommunikasjon kan gi konsekvenser for prosjekter. Første krav til å sikre god kommunikasjon er å lytte, dette viser at man er interessert (Gjøsund & Huseby, 2025). 
+Kommunikasjon i ett prosjektteam har fire hovedfunksjoner: sosial, ekspressiv, informasjon og kontrollfunksjon (Karlsen, 2021, s. 257). For å sikre god kommunikasjon i et team bør prosjektlederen være effektiv og ha høy kvalitet på informasjonen som blir formidlet, slik at det ikke oppstår spekulasjoner og negative rykter i gruppen (Karlsen, 2021, s. 257).  En annen måte å sikre god og effektiv kommunikasjon på er ved hjelp av metakommunikasjon, altså kommunikasjon av selve kommunikasjonen.  Ved å snakke om hvordan kommunikasjonen er i gruppen vil avklare forventinger, sjekke forståelse og redusere misforståelser og usikkerhet. Et eksempel på metakommunikasjon er “hvordan syns dere vi fungerer som en gruppe hittil?”. På denne måten vil teamet bli flinkere på å kommunisere. 
+Kommunikasjonsprosessen 
+I tillegg bør prosjektlederen være oppmerksom på kommunikasjonsprosesssen, som består av koding og avkoding. Som en gruppeleder innebærer dette å formulere budskapet og informasjonen klart og tydelig. Koding handler om avsenderens valg av ord og symboler som formidler meldingen på best mulig vis. Deretter vil mottakeren avkode ved å tolke innholdet og gi en bekreftelse på forståelsen (Karlsen, 2021, s. 257). Bevissthet rundt dette bidrar til å være mer tydelig og effektiv i kommunikasjonen som reduserer misforståelser i gruppen.  Det kan være krevende å sikre god kommunikasjon i et prosjektteam. Ifølge Karlsen (2021) må prosjektledelsen særlig være bevisst på kommunikasjonsbarrierer. Det finnes nemlig fire kommunikasjonsbarrierer: prosessbarrierer, personlige barrierer, fysiske barrierer, semantiske barrierer. Ved å arbeide for å redusere disse barrierene på best mulig vis, kan prosjektlederen legge til rette for god, effektiv og presis kommunikasjon i gruppen. 
+
+
 
 ### Oppsummering  
 
